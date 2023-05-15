@@ -1,2 +1,2 @@
 # AI-Desktop-Assistant
-This is my person desktop assistant AI that I will be working on. When I grow as a coder I will also update this bot. I want to use it to showcase my growth as a software engineer and computer scientist
+This is a Pseudo-AI assistant that I built to test my knowledge of interacting with the OS using python. 
